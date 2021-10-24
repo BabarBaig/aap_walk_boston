@@ -15,4 +15,4 @@ You also need to use curl to get the Boston City data from [here](https://pollys
 
 ## Credit
 
-MIT Professional Certificate in Coding: Full Stack Development with MERN - September 2021 with all exercises implemented.
+MIT Professional Certificate in Coding: Full Stack Development with MERN - September 2021 with all course exercises implemented.
