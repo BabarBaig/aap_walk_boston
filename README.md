@@ -19,6 +19,10 @@ To see the implementation, clone this project and double-click on the html files
 
 1. **employee-salaries.html** provides a list of over 20,000 Boston city employees and their salaries.
 
+# Developer Notes
+
+All html files access a downloaded JSON file that provides salary data for over 20,000 Boston city employees.
+
 ## Credit
 
 MIT Professional Certificate in Coding: Full Stack Development with MERN - September 2021 with all course exercises implemented.
