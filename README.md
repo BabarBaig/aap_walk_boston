@@ -13,6 +13,12 @@ You are given file index1.html which you will need to edit. You can rename it to
 
 You also need to use curl to get the Boston City data from [here](https://pollysnips.s3.amazonaws.com/bostonEmployeeSalaries.json)
 
+# Users
+
+To see the implementation, clone this project and double-click on the html files.
+
+1. employee-salaries.html provides a list of over 20,000 Boston city employees and their salaries.
+
 ## Credit
 
 MIT Professional Certificate in Coding: Full Stack Development with MERN - September 2021 with all exercises implemented.
