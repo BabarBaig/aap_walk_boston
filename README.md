@@ -21,7 +21,9 @@ To see the implementation, clone this project and double-click on the html files
 
 # Developer Notes
 
-All html files access a downloaded JSON file that provides salary data for over 20,000 Boston city employees.
+All html files access a downloaded JSON file that provides salary data for over 20,000 Boston city employees.<br>
+Currently three html files provide 3 views on the data.<br>
+- [ ] Combine the 3 files into a single file with 3 pages.
 
 ## Credit
 
