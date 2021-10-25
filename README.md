@@ -19,12 +19,14 @@ To see the implementation, clone this project and double-click on the html files
 
 1. **boston-emp-salaries.html** List of over 20,000 Boston city employees and their salaries.
 2. **boston-top-5-earners.html** Sorted list of top-5 Boston city employees with the highest salaries.
-3. **boston-200k+-earners.html** City employee(s) earning over $200k
+3. **boston-200k+-earners.html** City employee(s) earning over $200k.
 
 # Developer Notes
 
-All html files access a downloaded JSON file that provides salary data for over 20,000 Boston city employees.<br>
-Currently three html files provide 3 views on the data.<br>
+All html files access a downloaded JSON file that provides salary data for over 20,000 Boston city employees.  
+Currently three html files provide 3 views on the data.  
+Searching for employees earning over $200k, only one name is a match, but code will handle more than one match.
+
 - [ ] Combine the 3 files into a single file with 3 pages.
 
 ## Credit
