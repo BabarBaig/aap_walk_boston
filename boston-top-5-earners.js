@@ -9,7 +9,7 @@ function buildTop5(person){
   top5.sort((person1, person2) => parseInt(person2[11]) - parseInt(person1[11]))
 }
 
-function renderPosts2(boston, container) {
+function renderPosts(boston, container) {
   const people = boston.data;
   const len = boston.data.length;
 
@@ -32,7 +32,7 @@ function renderPosts2(boston, container) {
   container.innerHTML = '<ul id = "data">' + html + '</ul>';
 }
 
-function renderPosts(boston, container) {
+function renderPosts2(boston, container) {
   const people = boston.data;
   // const len = boston.data.length;
 
