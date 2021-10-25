@@ -32,31 +32,4 @@ function renderPosts(boston, container) {
   container.innerHTML = '<ul id = "data">' + html + '</ul>';
 }
 
-function renderPosts2(boston, container) {
-  const people = boston.data;
-  // const len = boston.data.length;
-
-
-  const over200k = people.filter(person => parseFloat(person[11]) >= 200000.0);
-  const len = over200k.length;
-
-  // for (let i = 0; i < len; i++){
-  //   buildTop5(people[i])
-  // }
-
-  let html = '';
-  // for (let i = 0; i < len; i++) {
-  //   html += '<li class="post">' + '<h2>' + people[i][8] + '</h2>'
-  //      + '<h3>' + people[i][11] + '</h3>';
-  // }
-  for (let i = 0; i < len; i++) {
-    html += '<li class="topEmployees">' + '<h2>' + over200k[i][8] + '</h2>'
-        + '<h3>' + over200k[i][11] + '</h3>';
-  }
-
-  // TODO: add code to display the html variable inside a ul element with id="data"
-  // Hint: you can use the container parameter's innerHTML property to insert Html tags
-  container.innerHTML = '<ul id = "data">' + html + '</ul>';
-}
-
 renderPosts(boston, document.getElementById('container'));
