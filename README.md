@@ -1,7 +1,7 @@
 
 # Boston City Data Exercise
 
-![Boston](boston.png)
+![Boston skyline](boston-skyline.png)
 
 The goal of this exercise is to pick out the top 5 earners in Boston (total salary + overtime) and list them out in the web page as shown below:
 Name     Total Earned
