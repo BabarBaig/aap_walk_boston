@@ -21,4 +21,4 @@ To see the implementation, clone this project and double-click on the html files
 
 ## Credit
 
-MIT Professional Certificate in Coding: Full Stack Development with MERN - September 2021 with all exercises implemented.
+MIT Professional Certificate in Coding: Full Stack Development with MERN - September 2021 with all course exercises implemented.
