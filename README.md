@@ -17,7 +17,13 @@ You also need to use curl to get the Boston City data from [here](https://pollys
 
 To see the implementation, clone this project and double-click on the html files.
 
-1. employee-salaries.html provides a list of over 20,000 Boston city employees and their salaries.
+1. **employee-salaries.html** provides a list of over 20,000 Boston city employees and their salaries.
+
+# Developer Notes
+
+All html files access a downloaded JSON file that provides salary data for over 20,000 Boston city employees.<br>
+Currently three html files provide 3 views on the data.<br>
+- [ ] Combine the 3 files into a single file with 3 pages.
 
 ## Credit
 
