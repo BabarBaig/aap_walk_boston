@@ -17,9 +17,9 @@ You also need to use curl to get the Boston City data from [here](https://pollys
 
 To see the implementation, clone this project and double-click on the html files.
 
-1. **employee-salaries.html** List of over 20,000 Boston city employees and their salaries.
+1. **boston-empl-salaries.html** List of over 20,000 Boston city employees and their salaries.
 2. **top-5-earners.html** Sorted list of top-5 Boston city employees with the highest salaries.
-3. **over-200k.html** City employee(s) earning over $200k
+3. **over-200k-earners.html** City employee(s) earning over $200k
 
 # Developer Notes
 
